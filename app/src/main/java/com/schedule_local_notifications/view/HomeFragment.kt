@@ -1,4 +1,4 @@
-package com.schedule_local_notifications
+package com.schedule_local_notifications.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
+import com.schedule_local_notifications.R
 import com.schedule_local_notifications.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
